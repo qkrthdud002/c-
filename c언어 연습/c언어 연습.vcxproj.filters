@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자07.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자-형성평가1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자-형성평가2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자-형성평가3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자-형성평가4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자-형성평가5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="디버깅01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="디버깅02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="디버깅03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="디버깅04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="디버깅05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="디버깅06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="저금.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3회연속 사칙연산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="국영수 평균구하기 연속 3회.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문07.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문09.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문-형성평가1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문-형성평가2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문-형성평가3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문-형성평가4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선택제어문-형성평가5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="do~while.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문-형성평가1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문-형성평가2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문-형성평가3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문-형성평가4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문-형성평가5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2-1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2-2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2-3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2-4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2-5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2-6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2-7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2-8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2-형성평가1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2-형성평가2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="반복제어문2-형성평가3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

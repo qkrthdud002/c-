@@ -1,0 +1,5 @@
+num1과 num2의 값을 입력받아서 두 값을 바꾸어 출력하기.
+int temp;
+temp = num1;
+num1 = num2;
+num2 = temp;
